@@ -7,4 +7,4 @@ The dataset is a dataset referring to the red wine of Portugal, where it talks a
 
 Then, models are created to predict the quality of red wine. Being the models, logistic regression and random forest.
 
-![Alt text](https://github.com/rubenAlbuquerque/Red_wine_Portugal/blob/main/wine.png)
+![Alt text](./wine.png)
