@@ -6,3 +6,5 @@ One of the objectives of this project is to learn to work with the pyspark libra
 The dataset is a dataset referring to the red wine of Portugal, where it talks about the characteristics of the wine. An exploratory analysis is made to the dataset that includes the descriptions of variables and the creation of graphs, where we observe the correlation between variables.  
 
 Then, models are created to predict the quality of red wine. Being the models, logistic regression and random forest.
+
+![Alt text](https://github.com/rubenAlbuquerque/Red_wine_Portugal/blob/main/wine.png)
